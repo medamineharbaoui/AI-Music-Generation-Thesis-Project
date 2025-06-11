@@ -51,9 +51,4 @@ The scripts utilize the `music21` library for MIDI processing and leverage paral
 - **File Overwrite Protection**: The scripts skip processing if output files already exist to avoid redundant work.
 - **Dataset Specifics**: The pipeline is designed for classical music MIDI files but can be adapted for other genres by modifying the cleaning and transposition logic.
 
-## Future Improvements
 
-- Add support for additional MIDI track configurations.
-- Incorporate more advanced key detection algorithms.
-- Allow user-defined target keys for transposition.
-- Implement data validation checks before processing.
