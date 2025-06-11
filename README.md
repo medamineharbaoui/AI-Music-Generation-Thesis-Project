@@ -1,4 +1,4 @@
-# My Master Thesis Project: Classical Music Generation
+# Application of artificial intelligence methods in music generation: Classical Music Generation
 
 ## Overview
 **My Thesis Project** is a classical music generation framework that uses advanced neural network architectures to compose original MIDI music. It leverages **LSTM**, **Transformer**, and **Hybrid LSTM-Transformer** models to generate music, offering a flexible platform for developers, musicians, and AI enthusiasts to train and experiment with music generation.
@@ -37,7 +37,7 @@ Download missing thesis_models content and thesis_generated_music content from t
 ```bash
 
    https://drive.google.com/drive/folders/1UOgHilxtPSadcc3Uu8_NKs7hN65Du-Nu?usp=sharing
-   
+
    ```
 
 ## Approach
