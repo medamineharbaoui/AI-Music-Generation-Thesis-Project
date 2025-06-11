@@ -1,0 +1,1090 @@
+{
+    "albeniz\\alb_esp2.mid": {
+        "key": "D",
+        "scale": "major"
+    },
+    "albeniz\\alb_esp5.mid": {
+        "key": "E-",
+        "scale": "major"
+    },
+    "albeniz\\alb_esp1.mid": {
+        "key": "A",
+        "scale": "major"
+    },
+    "albeniz\\alb_esp4.mid": {
+        "key": "D",
+        "scale": "major"
+    },
+    "albeniz\\alb_esp6.mid": {
+        "key": "B",
+        "scale": "major"
+    },
+    "albeniz\\alb_esp3.mid": {
+        "key": "B",
+        "scale": "major"
+    },
+    "albeniz\\alb_se1.mid": {
+        "key": "F",
+        "scale": "major"
+    },
+    "albeniz\\alb_se2.mid": {
+        "key": "G",
+        "scale": "minor"
+    },
+    "albeniz\\alb_se4.mid": {
+        "key": "A-",
+        "scale": "major"
+    },
+    "albeniz\\alb_se7.mid": {
+        "key": "F#",
+        "scale": "major"
+    },
+    "albeniz\\alb_se3.mid": {
+        "key": "G",
+        "scale": "major"
+    },
+    "albeniz\\alb_se8.mid": {
+        "key": "E-",
+        "scale": "major"
+    },
+    "albeniz\\alb_se6.mid": {
+        "key": "F",
+        "scale": "major"
+    },
+    "albeniz\\alb_se5.mid": {
+        "key": "D",
+        "scale": "minor"
+    },
+    "beeth\\appass_2.mid": {
+        "key": "C#",
+        "scale": "major"
+    },
+    "beeth\\beethoven_hammerklavier_2.mid": {
+        "key": "F",
+        "scale": "major"
+    },
+    "beeth\\beethoven_les_adieux_2.mid": {
+        "key": "C",
+        "scale": "major"
+    },
+    "beeth\\beethoven_hammerklavier_3.mid": {
+        "key": "F#",
+        "scale": "minor"
+    },
+    "beeth\\beethoven_les_adieux_1.mid": {
+        "key": "B-",
+        "scale": "major"
+    },
+    "beeth\\beethoven_opus10_2.mid": {
+        "key": "A-",
+        "scale": "major"
+    },
+    "beeth\\beethoven_les_adieux_3.mid": {
+        "key": "B-",
+        "scale": "major"
+    },
+    "beeth\\appass_1.mid": {
+        "key": "F",
+        "scale": "minor"
+    },
+    "beeth\\beethoven_opus10_1.mid": {
+        "key": "C",
+        "scale": "minor"
+    },
+    "beeth\\beethoven_opus10_3.mid": {
+        "key": "C",
+        "scale": "minor"
+    },
+    "beeth\\beethoven_hammerklavier_1.mid": {
+        "key": "B-",
+        "scale": "major"
+    },
+    "balakir\\islamei.mid": {
+        "key": "C#",
+        "scale": "major"
+    },
+    "beeth\\appass_3.mid": {
+        "key": "F",
+        "scale": "minor"
+    },
+    "beeth\\beethoven_opus22_2.mid": {
+        "key": "E-",
+        "scale": "major"
+    },
+    "beeth\\beethoven_opus22_3.mid": {
+        "key": "B-",
+        "scale": "major"
+    },
+    "beeth\\mond_2.mid": {
+        "key": "C#",
+        "scale": "major"
+    },
+    "beeth\\beethoven_opus90_1.mid": {
+        "key": "E",
+        "scale": "minor"
+    },
+    "beeth\\elise.mid": {
+        "key": "A",
+        "scale": "minor"
+    },
+    "beeth\\beethoven_opus22_4.mid": {
+        "key": "B-",
+        "scale": "major"
+    },
+    "beeth\\beethoven_opus22_1.mid": {
+        "key": "F",
+        "scale": "major"
+    },
+    "beeth\\waldstein_2.mid": {
+        "key": "F",
+        "scale": "major"
+    },
+    "borodin\\bor_ps1.mid": {
+        "key": "C#",
+        "scale": "minor"
+    },
+    "beeth\\beethoven_opus90_2.mid": {
+        "key": "B",
+        "scale": "major"
+    },
+    "borodin\\bor_ps2.mid": {
+        "key": "F",
+        "scale": "major"
+    },
+    "borodin\\bor_ps5.mid": {
+        "key": "C#",
+        "scale": "major"
+    },
+    "borodin\\bor_ps3.mid": {
+        "key": "G",
+        "scale": "major"
+    },
+    "beeth\\mond_3.mid": {
+        "key": "C#",
+        "scale": "minor"
+    },
+    "borodin\\bor_ps6.mid": {
+        "key": "C#",
+        "scale": "major"
+    },
+    "beeth\\pathetique_3.mid": {
+        "key": "C",
+        "scale": "minor"
+    },
+    "beeth\\beethoven_hammerklavier_4.mid": {
+        "key": "B-",
+        "scale": "major"
+    },
+    "borodin\\bor_ps7.mid": {
+        "key": "B-",
+        "scale": "minor"
+    },
+    "borodin\\bor_ps4.mid": {
+        "key": "C#",
+        "scale": "major"
+    },
+    "brahms\\brahms_opus117_1.mid": {
+        "key": "E-",
+        "scale": "major"
+    },
+    "brahms\\brahms_opus117_2.mid": {
+        "key": "F",
+        "scale": "minor"
+    },
+    "brahms\\br_im2.mid": {
+        "key": "A",
+        "scale": "minor"
+    },
+    "brahms\\br_im5.mid": {
+        "key": "E",
+        "scale": "major"
+    },
+    "burgm\\burg_erwachen.mid": {
+        "key": "F",
+        "scale": "major"
+    },
+    "beeth\\pathetique_1.mid": {
+        "key": "C",
+        "scale": "minor"
+    },
+    "burgm\\burg_agitato.mid": {
+        "key": "E",
+        "scale": "minor"
+    },
+    "burgm\\burg_geschwindigkeit.mid": {
+        "key": "C",
+        "scale": "major"
+    },
+    "burgm\\burg_perlen.mid": {
+        "key": "C",
+        "scale": "major"
+    },
+    "burgm\\burg_gewitter.mid": {
+        "key": "D",
+        "scale": "minor"
+    },
+    "brahms\\br_rhap.mid": {
+        "key": "E-",
+        "scale": "major"
+    },
+    "burgm\\burg_spinnerlied.mid": {
+        "key": "D",
+        "scale": "major"
+    },
+    "burgm\\burg_quelle.mid": {
+        "key": "G",
+        "scale": "major"
+    },
+    "brahms\\brahms_opus1_3.mid": {
+        "key": "C",
+        "scale": "major"
+    },
+    "burgm\\burg_trennung.mid": {
+        "key": "E-",
+        "scale": "major"
+    },
+    "burgm\\burg_sylphen.mid": {
+        "key": "G",
+        "scale": "major"
+    },
+    "chopin\\chpn-p10.mid": {
+        "key": "C#",
+        "scale": "minor"
+    },
+    "chopin\\chpn-p11.mid": {
+        "key": "B",
+        "scale": "major"
+    },
+    "chopin\\chpn-p1.mid": {
+        "key": "C",
+        "scale": "major"
+    },
+    "brahms\\brahms_opus1_4.mid": {
+        "key": "E",
+        "scale": "minor"
+    },
+    "chopin\\chpn-p12.mid": {
+        "key": "G#",
+        "scale": "minor"
+    },
+    "chopin\\chpn-p13.mid": {
+        "key": "F#",
+        "scale": "major"
+    },
+    "chopin\\chpn-p14.mid": {
+        "key": "E-",
+        "scale": "minor"
+    },
+    "chopin\\chpn-p18.mid": {
+        "key": "F",
+        "scale": "minor"
+    },
+    "chopin\\chpn-p2.mid": {
+        "key": "D",
+        "scale": "major"
+    },
+    "chopin\\chpn-p20.mid": {
+        "key": "C",
+        "scale": "minor"
+    },
+    "chopin\\chpn-p16.mid": {
+        "key": "B-",
+        "scale": "minor"
+    },
+    "chopin\\chpn-p23.mid": {
+        "key": "C",
+        "scale": "major"
+    },
+    "chopin\\chpn-p22.mid": {
+        "key": "G",
+        "scale": "minor"
+    },
+    "chopin\\chpn-p15.mid": {
+        "key": "A-",
+        "scale": "major"
+    },
+    "chopin\\chpn-p17.mid": {
+        "key": "A-",
+        "scale": "major"
+    },
+    "chopin\\chpn-p21.mid": {
+        "key": "B-",
+        "scale": "major"
+    },
+    "beeth\\waldstein_1.mid": {
+        "key": "E",
+        "scale": "minor"
+    },
+    "chopin\\chpn-p7.mid": {
+        "key": "A",
+        "scale": "major"
+    },
+    "chopin\\chpn-p4.mid": {
+        "key": "E",
+        "scale": "minor"
+    },
+    "chopin\\chpn-p6.mid": {
+        "key": "B",
+        "scale": "minor"
+    },
+    "chopin\\chpn-p5.mid": {
+        "key": "D",
+        "scale": "major"
+    },
+    "chopin\\chpn-p24.mid": {
+        "key": "A",
+        "scale": "minor"
+    },
+    "chopin\\chpn-p19.mid": {
+        "key": "E-",
+        "scale": "major"
+    },
+    "chopin\\chpn-p3.mid": {
+        "key": "G",
+        "scale": "major"
+    },
+    "brahms\\brahms_opus1_1.mid": {
+        "key": "C",
+        "scale": "major"
+    },
+    "chopin\\chpn_op10_e05.mid": {
+        "key": "C#",
+        "scale": "major"
+    },
+    "chopin\\chpn_op10_e01.mid": {
+        "key": "C",
+        "scale": "major"
+    },
+    "chopin\\chpn_op25_e2.mid": {
+        "key": "F",
+        "scale": "minor"
+    },
+    "chopin\\chpn_op25_e4.mid": {
+        "key": "A",
+        "scale": "minor"
+    },
+    "chopin\\chpn_op25_e11.mid": {
+        "key": "A",
+        "scale": "minor"
+    },
+    "chopin\\chpn_op25_e3.mid": {
+        "key": "C",
+        "scale": "major"
+    },
+    "chopin\\chpn_op10_e12.mid": {
+        "key": "C",
+        "scale": "minor"
+    },
+    "chopin\\chpn_op27_1.mid": {
+        "key": "C#",
+        "scale": "major"
+    },
+    "chopin\\chpn_op33_2.mid": {
+        "key": "D",
+        "scale": "major"
+    },
+    "chopin\\chpn_op27_2.mid": {
+        "key": "C#",
+        "scale": "major"
+    },
+    "chopin\\chpn_op35_3.mid": {
+        "key": "B-",
+        "scale": "minor"
+    },
+    "chopin\\chpn_op33_4.mid": {
+        "key": "B",
+        "scale": "major"
+    },
+    "chopin\\chpn_op25_e12.mid": {
+        "key": "C",
+        "scale": "minor"
+    },
+    "chopin\\chpn_op7_1.mid": {
+        "key": "B-",
+        "scale": "major"
+    },
+    "chopin\\chpn_op7_2.mid": {
+        "key": "A",
+        "scale": "major"
+    },
+    "chopin\\chpn_op35_4.mid": {
+        "key": "B-",
+        "scale": "minor"
+    },
+    "debussy\\debussy_cc_2.mid": {
+        "key": "G",
+        "scale": "minor"
+    },
+    "debussy\\debussy_cc_1.mid": {
+        "key": "C",
+        "scale": "major"
+    },
+    "chopin\\chpn_op35_1.mid": {
+        "key": "B-",
+        "scale": "minor"
+    },
+    "chopin\\chpn_op23.mid": {
+        "key": "G",
+        "scale": "minor"
+    },
+    "debussy\\debussy_cc_3.mid": {
+        "key": "E",
+        "scale": "major"
+    },
+    "debussy\\debussy_cc_4.mid": {
+        "key": "B-",
+        "scale": "major"
+    },
+    "chopin\\chpn_op66.mid": {
+        "key": "C#",
+        "scale": "major"
+    },
+    "chopin\\chpn_op53.mid": {
+        "key": "A-",
+        "scale": "major"
+    },
+    "debussy\\debussy_cc_6.mid": {
+        "key": "B-",
+        "scale": "minor"
+    },
+    "chopin\\chp_op18.mid": {
+        "key": "A-",
+        "scale": "major"
+    },
+    "debussy\\deb_prel.mid": {
+        "key": "F",
+        "scale": "major"
+    },
+    "granados\\gra_esp_2.mid": {
+        "key": "C",
+        "scale": "minor"
+    },
+    "debussy\\deb_menu.mid": {
+        "key": "D",
+        "scale": "major"
+    },
+    "grieg\\grieg_berceuse.mid": {
+        "key": "G",
+        "scale": "major"
+    },
+    "grieg\\grieg_halling.mid": {
+        "key": "D",
+        "scale": "minor"
+    },
+    "granados\\gra_esp_4.mid": {
+        "key": "G",
+        "scale": "major"
+    },
+    "grieg\\grieg_album.mid": {
+        "key": "F",
+        "scale": "major"
+    },
+    "grieg\\grieg_elfentanz.mid": {
+        "key": "E",
+        "scale": "minor"
+    },
+    "granados\\gra_esp_3.mid": {
+        "key": "D",
+        "scale": "major"
+    },
+    "grieg\\grieg_butterfly.mid": {
+        "key": "F#",
+        "scale": "minor"
+    },
+    "grieg\\grieg_voeglein.mid": {
+        "key": "D",
+        "scale": "minor"
+    },
+    "grieg\\grieg_waechter.mid": {
+        "key": "E",
+        "scale": "major"
+    },
+    "grieg\\grieg_brooklet.mid": {
+        "key": "B",
+        "scale": "minor"
+    },
+    "grieg\\grieg_kobold.mid": {
+        "key": "B-",
+        "scale": "major"
+    },
+    "grieg\\grieg_wanderer.mid": {
+        "key": "F#",
+        "scale": "major"
+    },
+    "grieg\\grieg_once_upon_a_time.mid": {
+        "key": "E",
+        "scale": "minor"
+    },
+    "grieg\\grieg_walzer.mid": {
+        "key": "E",
+        "scale": "minor"
+    },
+    "grieg\\grieg_march.mid": {
+        "key": "C",
+        "scale": "major"
+    },
+    "grieg\\grieg_zwerge.mid": {
+        "key": "D",
+        "scale": "major"
+    },
+    "haydn\\haydn_33_2.mid": {
+        "key": "F",
+        "scale": "major"
+    },
+    "haydn\\haydn_35_2.mid": {
+        "key": "F",
+        "scale": "major"
+    },
+    "haydn\\haydn_33_3.mid": {
+        "key": "D",
+        "scale": "major"
+    },
+    "grieg\\grieg_wedding.mid": {
+        "key": "D",
+        "scale": "major"
+    },
+    "haydn\\haydn_35_3.mid": {
+        "key": "G",
+        "scale": "major"
+    },
+    "haydn\\haydn_43_2.mid": {
+        "key": "A-",
+        "scale": "major"
+    },
+    "haydn\\haydn_7_1.mid": {
+        "key": "C",
+        "scale": "major"
+    },
+    "haydn\\haydn_7_3.mid": {
+        "key": "G",
+        "scale": "major"
+    },
+    "haydn\\haydn_7_2.mid": {
+        "key": "C",
+        "scale": "major"
+    },
+    "haydn\\haydn_8_2.mid": {
+        "key": "G",
+        "scale": "major"
+    },
+    "chopin\\chp_op31.mid": {
+        "key": "C#",
+        "scale": "major"
+    },
+    "haydn\\haydn_8_3.mid": {
+        "key": "G",
+        "scale": "major"
+    },
+    "haydn\\haydn_33_1.mid": {
+        "key": "D",
+        "scale": "major"
+    },
+    "haydn\\haydn_8_1.mid": {
+        "key": "G",
+        "scale": "major"
+    },
+    "haydn\\haydn_8_4.mid": {
+        "key": "G",
+        "scale": "major"
+    },
+    "haydn\\haydn_9_3.mid": {
+        "key": "F",
+        "scale": "major"
+    },
+    "haydn\\haydn_35_1.mid": {
+        "key": "G",
+        "scale": "major"
+    },
+    "haydn\\haydn_9_1.mid": {
+        "key": "F",
+        "scale": "major"
+    },
+    "haydn\\haydn_43_3.mid": {
+        "key": "E-",
+        "scale": "major"
+    },
+    "haydn\\haydn_9_2.mid": {
+        "key": "F",
+        "scale": "major"
+    },
+    "haydn\\haydn_43_1.mid": {
+        "key": "A-",
+        "scale": "major"
+    },
+    "haydn\\hay_40_2.mid": {
+        "key": "G",
+        "scale": "major"
+    },
+    "liszt\\liz_et4.mid": {
+        "key": "E",
+        "scale": "major"
+    },
+    "liszt\\liz_et5.mid": {
+        "key": "E",
+        "scale": "major"
+    },
+    "haydn\\hay_40_1.mid": {
+        "key": "G",
+        "scale": "major"
+    },
+    "liszt\\liz_et2.mid": {
+        "key": "B-",
+        "scale": "major"
+    },
+    "liszt\\liz_et_trans5.mid": {
+        "key": "B-",
+        "scale": "major"
+    },
+    "liszt\\liz_et3.mid": {
+        "key": "E-",
+        "scale": "minor"
+    },
+    "mendelssohn\\mendel_op19_2.mid": {
+        "key": "A",
+        "scale": "minor"
+    },
+    "liszt\\liz_liebestraum.mid": {
+        "key": "A-",
+        "scale": "major"
+    },
+    "mendelssohn\\mendel_op19_4.mid": {
+        "key": "A",
+        "scale": "major"
+    },
+    "mendelssohn\\mendel_op19_3.mid": {
+        "key": "A",
+        "scale": "major"
+    },
+    "mendelssohn\\mendel_op19_6.mid": {
+        "key": "G",
+        "scale": "minor"
+    },
+    "liszt\\liz_et_trans8.mid": {
+        "key": "C",
+        "scale": "minor"
+    },
+    "mendelssohn\\mendel_op19_5.mid": {
+        "key": "F#",
+        "scale": "minor"
+    },
+    "liszt\\liz_rhap10.mid": {
+        "key": "E",
+        "scale": "major"
+    },
+    "mendelssohn\\mendel_op30_3.mid": {
+        "key": "B",
+        "scale": "major"
+    },
+    "mendelssohn\\mendel_op30_2.mid": {
+        "key": "B-",
+        "scale": "minor"
+    },
+    "mendelssohn\\mendel_op30_5.mid": {
+        "key": "D",
+        "scale": "major"
+    },
+    "mendelssohn\\mendel_op62_3.mid": {
+        "key": "E",
+        "scale": "minor"
+    },
+    "mendelssohn\\mendel_op62_4.mid": {
+        "key": "G",
+        "scale": "major"
+    },
+    "mendelssohn\\mendel_op53_5.mid": {
+        "key": "A",
+        "scale": "minor"
+    },
+    "mendelssohn\\mendel_op30_4.mid": {
+        "key": "B",
+        "scale": "minor"
+    },
+    "mendelssohn\\mendel_op62_5.mid": {
+        "key": "A",
+        "scale": "minor"
+    },
+    "liszt\\liz_rhap15.mid": {
+        "key": "A",
+        "scale": "major"
+    },
+    "liszt\\liz_et_trans4.mid": {
+        "key": "D",
+        "scale": "minor"
+    },
+    "mozart\\mz_330_2.mid": {
+        "key": "F",
+        "scale": "major"
+    },
+    "mozart\\mz_311_1.mid": {
+        "key": "D",
+        "scale": "major"
+    },
+    "liszt\\liz_rhap09.mid": {
+        "key": "E-",
+        "scale": "major"
+    },
+    "mozart\\mz_330_1.mid": {
+        "key": "C",
+        "scale": "major"
+    },
+    "mozart\\mz_311_3.mid": {
+        "key": "D",
+        "scale": "major"
+    },
+    "mozart\\mz_330_3.mid": {
+        "key": "G",
+        "scale": "major"
+    },
+    "mozart\\mz_331_2.mid": {
+        "key": "A",
+        "scale": "major"
+    },
+    "mozart\\mz_332_2.mid": {
+        "key": "F",
+        "scale": "major"
+    },
+    "mozart\\mz_331_3.mid": {
+        "key": "A",
+        "scale": "major"
+    },
+    "liszt\\liz_rhap02.mid": {
+        "key": "C#",
+        "scale": "major"
+    },
+    "mozart\\mz_333_2.mid": {
+        "key": "E-",
+        "scale": "major"
+    },
+    "mozart\\mz_545_3.mid": {
+        "key": "C",
+        "scale": "major"
+    },
+    "mozart\\mz_545_2.mid": {
+        "key": "G",
+        "scale": "major"
+    },
+    "mozart\\mz_331_1.mid": {
+        "key": "A",
+        "scale": "major"
+    },
+    "mozart\\mz_333_3.mid": {
+        "key": "B-",
+        "scale": "major"
+    },
+    "mozart\\mz_332_1.mid": {
+        "key": "C",
+        "scale": "major"
+    },
+    "mozart\\mz_545_1.mid": {
+        "key": "C",
+        "scale": "major"
+    },
+    "muss\\muss_4.mid": {
+        "key": "G#",
+        "scale": "minor"
+    },
+    "muss\\muss_3.mid": {
+        "key": "B",
+        "scale": "major"
+    },
+    "mozart\\mz_570_2.mid": {
+        "key": "E-",
+        "scale": "major"
+    },
+    "mozart\\mz_333_1.mid": {
+        "key": "B-",
+        "scale": "major"
+    },
+    "mozart\\mz_570_3.mid": {
+        "key": "B-",
+        "scale": "major"
+    },
+    "muss\\muss_1.mid": {
+        "key": "E-",
+        "scale": "major"
+    },
+    "muss\\muss_6.mid": {
+        "key": "C#",
+        "scale": "major"
+    },
+    "muss\\muss_5.mid": {
+        "key": "F",
+        "scale": "major"
+    },
+    "mozart\\mz_332_3.mid": {
+        "key": "F",
+        "scale": "major"
+    },
+    "mozart\\mz_570_1.mid": {
+        "key": "B-",
+        "scale": "major"
+    },
+    "schubert\\schubert_D850_2.mid": {
+        "key": "A",
+        "scale": "major"
+    },
+    "muss\\muss_7.mid": {
+        "key": "F#",
+        "scale": "minor"
+    },
+    "schubert\\schubert_D850_4.mid": {
+        "key": "D",
+        "scale": "major"
+    },
+    "schubert\\schubert_D935_2.mid": {
+        "key": "A-",
+        "scale": "major"
+    },
+    "schubert\\schubert_D850_3.mid": {
+        "key": "D",
+        "scale": "major"
+    },
+    "muss\\muss_8.mid": {
+        "key": "E-",
+        "scale": "major"
+    },
+    "schubert\\schub_d760_2.mid": {
+        "key": "C#",
+        "scale": "minor"
+    },
+    "schubert\\schub_d760_1.mid": {
+        "key": "C",
+        "scale": "major"
+    },
+    "schubert\\schub_d760_3.mid": {
+        "key": "A-",
+        "scale": "major"
+    },
+    "schubert\\schub_d760_4.mid": {
+        "key": "G",
+        "scale": "major"
+    },
+    "schubert\\schubert_D935_3.mid": {
+        "key": "B-",
+        "scale": "major"
+    },
+    "schubert\\schubert_D850_1.mid": {
+        "key": "A",
+        "scale": "major"
+    },
+    "schubert\\schub_d960_2.mid": {
+        "key": "C#",
+        "scale": "minor"
+    },
+    "schubert\\schubert_D935_1.mid": {
+        "key": "F",
+        "scale": "minor"
+    },
+    "schubert\\schub_d960_3.mid": {
+        "key": "B-",
+        "scale": "minor"
+    },
+    "schubert\\schuim-1.mid": {
+        "key": "C",
+        "scale": "minor"
+    },
+    "schubert\\schuim-2.mid": {
+        "key": "E-",
+        "scale": "minor"
+    },
+    "schubert\\schumm-3.mid": {
+        "key": "F",
+        "scale": "minor"
+    },
+    "schubert\\schumm-1.mid": {
+        "key": "G",
+        "scale": "major"
+    },
+    "schubert\\schubert_D935_4.mid": {
+        "key": "A-",
+        "scale": "major"
+    },
+    "schubert\\schumm-2.mid": {
+        "key": "A-",
+        "scale": "major"
+    },
+    "schubert\\schuim-4.mid": {
+        "key": "A-",
+        "scale": "major"
+    },
+    "schubert\\schumm-5.mid": {
+        "key": "F",
+        "scale": "minor"
+    },
+    "schubert\\schumm-6.mid": {
+        "key": "A-",
+        "scale": "major"
+    },
+    "schubert\\schu_143_2.mid": {
+        "key": "C",
+        "scale": "major"
+    },
+    "schubert\\schumm-4.mid": {
+        "key": "C#",
+        "scale": "minor"
+    },
+    "schumann\\scn15_10.mid": {
+        "key": "E-",
+        "scale": "minor"
+    },
+    "schumann\\scn15_1.mid": {
+        "key": "G",
+        "scale": "major"
+    },
+    "schubert\\schuim-3.mid": {
+        "key": "F#",
+        "scale": "major"
+    },
+    "schumann\\scn15_12.mid": {
+        "key": "B",
+        "scale": "major"
+    },
+    "schumann\\scn15_11.mid": {
+        "key": "D",
+        "scale": "major"
+    },
+    "schumann\\scn15_13.mid": {
+        "key": "G",
+        "scale": "major"
+    },
+    "schumann\\scn15_2.mid": {
+        "key": "D",
+        "scale": "major"
+    },
+    "schumann\\scn15_4.mid": {
+        "key": "D",
+        "scale": "major"
+    },
+    "schumann\\scn15_3.mid": {
+        "key": "E",
+        "scale": "minor"
+    },
+    "schumann\\scn15_6.mid": {
+        "key": "A",
+        "scale": "major"
+    },
+    "schumann\\scn15_7.mid": {
+        "key": "F",
+        "scale": "major"
+    },
+    "schumann\\scn15_5.mid": {
+        "key": "A",
+        "scale": "minor"
+    },
+    "schubert\\schub_d960_4.mid": {
+        "key": "B-",
+        "scale": "major"
+    },
+    "schumann\\scn15_8.mid": {
+        "key": "F",
+        "scale": "major"
+    },
+    "schumann\\scn15_9.mid": {
+        "key": "C",
+        "scale": "major"
+    },
+    "schumann\\scn16_4.mid": {
+        "key": "B-",
+        "scale": "major"
+    },
+    "schubert\\schu_143_1.mid": {
+        "key": "A",
+        "scale": "major"
+    },
+    "schumann\\scn16_1.mid": {
+        "key": "D",
+        "scale": "minor"
+    },
+    "schubert\\schu_143_3.mid": {
+        "key": "A",
+        "scale": "minor"
+    },
+    "schubert\\schub_d960_1.mid": {
+        "key": "F",
+        "scale": "major"
+    },
+    "schumann\\scn68_10.mid": {
+        "key": "F",
+        "scale": "major"
+    },
+    "schumann\\scn16_6.mid": {
+        "key": "B-",
+        "scale": "major"
+    },
+    "schumann\\scn16_5.mid": {
+        "key": "B-",
+        "scale": "major"
+    },
+    "schumann\\scn16_7.mid": {
+        "key": "G",
+        "scale": "minor"
+    },
+    "schumann\\scn16_3.mid": {
+        "key": "G",
+        "scale": "minor"
+    },
+    "tschai\\ty_april.mid": {
+        "key": "D",
+        "scale": "minor"
+    },
+    "schumann\\scn68_12.mid": {
+        "key": "A",
+        "scale": "minor"
+    },
+    "schumann\\scn16_2.mid": {
+        "key": "B-",
+        "scale": "major"
+    },
+    "schumann\\scn16_8.mid": {
+        "key": "G",
+        "scale": "minor"
+    },
+    "tschai\\ty_juli.mid": {
+        "key": "E-",
+        "scale": "major"
+    },
+    "schumann\\schum_abegg.mid": {
+        "key": "F",
+        "scale": "major"
+    },
+    "tschai\\ty_maerz.mid": {
+        "key": "G",
+        "scale": "minor"
+    },
+    "tschai\\ty_februar.mid": {
+        "key": "D",
+        "scale": "major"
+    },
+    "tschai\\ty_august.mid": {
+        "key": "B",
+        "scale": "minor"
+    },
+    "tschai\\ty_dezember.mid": {
+        "key": "A-",
+        "scale": "major"
+    },
+    "tschai\\ty_januar.mid": {
+        "key": "E",
+        "scale": "minor"
+    },
+    "tschai\\ty_mai.mid": {
+        "key": "D",
+        "scale": "major"
+    },
+    "tschai\\ty_juni.mid": {
+        "key": "G",
+        "scale": "minor"
+    },
+    "tschai\\ty_oktober.mid": {
+        "key": "D",
+        "scale": "minor"
+    },
+    "tschai\\ty_november.mid": {
+        "key": "E",
+        "scale": "major"
+    },
+    "tschai\\ty_september.mid": {
+        "key": "G",
+        "scale": "major"
+    }
+}

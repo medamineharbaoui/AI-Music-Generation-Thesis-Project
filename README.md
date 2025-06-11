@@ -14,6 +14,8 @@ The project is organized as follows:
 │   ├── train_lstm.ipynb   # Notebook for LSTM model training
 │   ├── train_transformer.ipynb # Notebook for Transformer model training
 │   ├── train_hybrid.ipynb # Notebook for Hybrid LSTM-Transformer training
+├── preprocessing_scripts/                # Preprocessing pipeline
+├── preprocessing_logs/                # Preprocessing pipeline logs
 ├── thesis_models/            # Pre-trained models and weights
 │   ├── LSTM/                 # LSTM model and best weights
 │   ├── Transformer/          # Transformer model and best weights
