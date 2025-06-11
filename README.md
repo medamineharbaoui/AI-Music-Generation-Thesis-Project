@@ -30,6 +30,16 @@ The project is organized as follows:
 └── README.md                 # This file
 ```
 
+## Downloads
+
+Download missing thesis_models content and thesis_generated_music content from this link :
+
+```bash
+
+   https://drive.google.com/drive/folders/1UOgHilxtPSadcc3Uu8_NKs7hN65Du-Nu?usp=sharing
+   
+   ```
+
 ## Approach
 The project follows a hybrid development and training workflow to optimize resource usage:
 
@@ -57,8 +67,8 @@ The project follows a hybrid development and training workflow to optimize resou
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/medamineharbaoui/AI-Music-Generation-Thesis-Project.git
+   cd AI-Music-Generation-Thesis-Project
    ```
 2. Install dependencies:
    ```bash
@@ -79,7 +89,7 @@ The project follows a hybrid development and training workflow to optimize resou
 1. Upload the dataset to a Kaggle kernel.
 2. Import the notebooks (`lstm_training.ipynb`, `transformer_training.ipynb`, `hybrid_training.ipynb`) to Kaggle.
 3. Run the notebooks with the **GPU P100 accelerator** enabled.
-4. Download the trained model weights and save them in `thesis_models/<model_name>/`.
+4. Download the trained model weights and save them in `thesis_models/`.
 
 ### Generating Music
 1. Ensure pre-trained weights are in `thesis_models/`.
