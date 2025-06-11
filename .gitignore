@@ -1,0 +1,33 @@
+# Ignore all folders and files inside input/
+input/*
+
+# Ignore all folders and files inside thesis_models/
+thesis_models/*
+
+# Ignore all folders and files inside thesis_generated_music/
+thesis_generated_music/*
+
+
+# Ignore Python virtual environment
+venv/
+
+# Other common ignores for Python projects
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore generated music files
+# thesis_generated_music/
+
+# Ignore model weights 
+# thesis_models/
+
+README3.md
